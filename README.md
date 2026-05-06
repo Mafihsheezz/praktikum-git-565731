@@ -9,4 +9,4 @@ Saya telah menyelesaikan praktikum Git dengan total 6 commit utama, termasuk pen
 ### Riwayat Commit (Git Log)
 Berikut adalah bukti riwayat commit yang telah saya lakukan:
 
-![Log Commit](log-praktikum.png.png)
+![Log Commit](log-praktikum.png)
