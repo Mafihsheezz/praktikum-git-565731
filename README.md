@@ -10,3 +10,8 @@ Saya telah menyelesaikan praktikum Git dengan total 6 commit utama, termasuk pen
 Berikut adalah bukti riwayat commit yang telah saya lakukan:
 
 ![Log Commit](log-praktikum.png)
+
+## Dokumentasi Tugas 2
+Berikut adalah bukti bahwa Branch Protection Rule telah diaktifkan untuk branch `main`:
+
+![Bukti Branch Protection](./branch-protection.png)
