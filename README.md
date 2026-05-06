@@ -38,6 +38,9 @@ Berikut adalah bukti riwayat commit yang telah saya lakukan:
 ## Dokumentasi Tugas 2
 Berikut adalah bukti bahwa Branch Protection Rule telah diaktifkan untuk branch `main`:
 
+![Bukti Branch Protection](./branch-protection.png)
+
 ## Dokumentasi Tugas 3
+Berikut adalah hasil Interactive Rebase (Squash) yang menggabungkan 3 commit menjadi 1:
 
 ![Bukti Rebase](./bukti-rebase.png)
